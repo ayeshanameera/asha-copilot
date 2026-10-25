@@ -1,4 +1,4 @@
-#Danger-sign checker v0.1
+#Danger-sign checker v0.3
 #Source: MoHFW "My Safe Motherhood" booklet, page 15
 
 #Each item: (question, level)
@@ -15,7 +15,7 @@ PREGNANCY_SIGNS = [
     ("Vaginal bleeding in advanced pregnancy?", "FRU"),
     ("Decreased or no foetal movements?", "FRU"),
     ("Swelling all over body, palpitations, shortness of breath?", "FRU"),
-    ("Swelling all over body and/or blurring of visions?", "FRU"),
+    ("Swelling all over body and/or blurring of vision?", "FRU"),
     ("High blood pressure detected in ANC?", "FRU"),
     ("Fits?", "FRU"),
     ("Labour pains or leaking before 9th month of pregnancy?", "FRU"),
